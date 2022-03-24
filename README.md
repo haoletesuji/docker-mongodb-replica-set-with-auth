@@ -25,7 +25,7 @@ chmod 400 keyfile
   sh ./start.sh
   ```
 
-3. Way 
+3. Way 3
   > Uses Makefile
   ```bash
   # starts the apps
